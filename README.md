@@ -17,6 +17,11 @@ Trabalho como SRE DevOps na [Zup Innovation](https://github.com/ZupIT)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+
+## Analytics ⚙️
+[![](https://raw.githubusercontent.com/HenriquePiccolo/HenriquePiccolo/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HenriquePiccolo/HenriquePiccolo/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HenriquePiccolo/HenriquePiccolo/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HenriquePiccolo/HenriquePiccolo/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HenriquePiccolo/HenriquePiccolo/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **HenriquePiccolo/HenriquePiccolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
