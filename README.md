@@ -1,6 +1,6 @@
 ### Olá! Eu sou Henrique Piccolo
 
-Trabalho como SRE DevOps na [Zup Innovation](https://github.com/ZupIT)
+Trabalho como DataOps na [NSXBet](https://github.com/NSXBet)
 
 ![Snake animation](https://github.com/HenriquePiccolo/HenriquePiccolo/blob/output/github-contribution-grid-snake.svg)
 
